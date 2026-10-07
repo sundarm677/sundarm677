@@ -14,13 +14,14 @@
 
 ### 👨‍💻 About Me
 
-Computer Science Engineering student (2026 Batch) with hands-on experience in **Java**, **Python**, **SQL**, and **Web Development**. Strong foundation in Object-Oriented Programming (OOP) and practical experience building responsive web applications with HTML5, CSS3, JavaScript, and MySQL. Seeking an entry-level **Software Developer** or **Java Developer** role to apply my technical skills and grow as a software professional.
+Computer Science Engineering student (2026 Batch) with a solid foundation in **Computer Science (CS) fundamentals**, **Object-Oriented Programming (OOP)**, **Data Structures & Algorithms (DSA)**, **Java**, **Python**, **SQL**, and **JavaScript (JS)** web development. Experienced in building responsive web applications using **HTML5**, **CSS3**, **JavaScript (ES6+)**, and **MySQL**. Seeking an entry-level **Software Developer** or **Java Developer** role to apply my technical skills and grow as a software professional.
 
 - 🎓 **Education**: B.E. in Computer Science & Engineering | **CGPA: 7.7** (2022 – 2026)
 - 🏫 **College**: Jaya Engineering College (Affiliated to Anna University), Thiruninravur, Tamil Nadu
 - 📍 **Location**: Thiruninravur, Tamil Nadu, India
 - 🎯 **Career Goal**: Entry-level Software Developer / Java Developer
-- 💼 **Experience**: Internship experience in Full Stack & Web Development
+- 💻 **CS Focus**: Data Structures & Algorithms, OOP, Database Management Systems (DBMS), Software Engineering
+- 🌐 **Web & JS Focus**: JavaScript (ES6+), Modern Responsive CSS3/HTML5, Full Stack Web Development
 - ⚡ **Soft Skills**: Problem Solving, Communication, Teamwork, Resilience, Adaptability
 
 ---
@@ -29,19 +30,20 @@ Computer Science Engineering student (2026 Batch) with hands-on experience in **
 
 | Category | Skills & Technologies |
 | :--- | :--- |
-| **Languages** | `Java` • `Python` • `SQL` • `JavaScript` • `HTML5` • `CSS3` |
-| **Databases** | `MySQL` |
+| **Languages** | `Java` • `Python` • `SQL` • `JavaScript (ES6+)` • `HTML5` • `CSS3` |
+| **CS Fundamentals** | `Data Structures & Algorithms (DSA)` • `Object-Oriented Programming (OOP)` • `DBMS` • `Operating Systems` • `Computer Networks` |
+| **Frontend & JS** | `JavaScript (DOM Manipulation, ES6+, Fetch API)` • `CSS3 (Flexbox, Grid, Animations)` • `HTML5` • `Responsive Web Design` |
+| **Databases** | `MySQL` • `SQL Query Optimization` |
 | **Tools & IDEs** | `VS Code` • `Eclipse` • `MySQL Workbench` • `Git` • `GitHub` |
-| **Core Concepts** | `Object-Oriented Programming (OOP)` • `Collections Framework` • `Data Structures` • `Web Development` |
 
 #### Tech Badges
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=lightspeed&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=lightspeed&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -59,16 +61,16 @@ Computer Science Engineering student (2026 Batch) with hands-on experience in **
 - Designed free-text query processing logic instead of rigid, pre-defined menus.
 - Evaluated system accuracy using real question phrasing gathered from peers and refined matching algorithms.
 
-#### 🛒 E-Commerce Application
-*`HTML5` • `CSS3` • `JavaScript`* • *(Jun 2025 – Jul 2025)*
-- Designed and built responsive, user-friendly e-commerce web pages focusing on modern UI design principles.
-- Implemented product listings, detailed views, and full shopping cart functionality.
-- Enhanced application usability and front-end performance.
+#### 🛒 E-Commerce Web Application
+*`JavaScript (JS)` • `HTML5` • `CSS3`* • *(Jun 2025 – Jul 2025)*
+- Designed and built responsive, user-friendly e-commerce web pages using modern **JavaScript (ES6+)**, HTML5, and CSS3.
+- Implemented dynamic product listings, detailed product views, interactive shopping cart logic, and DOM manipulation.
+- Enhanced application UI design, accessibility, and front-end performance.
 
 #### 📚 Library Management System
-*`Java` • `OOP` • `Collections`* • *(Jun 2026 – Jul 2026)*
-- Created a console-based Java application to manage book inventories and member checkout systems.
-- Utilized `HashMap` and `ArrayList` data structures for efficient search and lookup operations.
+*`Java` • `OOP` • `Collections (DSA)`* • *(Jun 2026 – Jul 2026)*
+- Created a console-based Java application applying core **Computer Science (CS)** concepts and OOP principles to manage book inventories and member checkout systems.
+- Utilized `HashMap` and `ArrayList` data structures for $O(1)$ and fast lookup operations.
 - Implemented custom exception handling (`BookNotFoundException`, `BookUnavailableException`, `MemberNotFoundException`) to handle invalid inputs gracefully.
 
 ---
@@ -77,7 +79,7 @@ Computer Science Engineering student (2026 Batch) with hands-on experience in **
 
 #### 💻 Full Stack Development Intern — **Besant Technologies**
 *May 2026 – Aug 2026*
-- Assisted in developing and integrating front-end and back-end modules for web applications.
+- Assisted in developing and integrating front-end (HTML5/CSS3/JS) and back-end modules for web applications.
 - Managed database tasks using SQL and MySQL to ensure smooth data processing and retrieval.
 
 #### 🌐 Web Development Intern — **Think Bright EdTech**
