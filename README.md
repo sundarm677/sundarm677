@@ -1,10 +1,8 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,28,45,65&height=220&section=header&text=Sundar%20M&fontSize=52&fontColor=ffffff&animation=twinkling&desc=Software%20Developer%20%7C%20Java%20%26%20Web%20Developer&descSize=20&descAlign=50&descAlignY=70" width="100%"/>
-</p>
+<h1 align="center">Hi there, I'm Sundar M 👋</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=25C2A0&center=true&vCenter=true&width=620&lines=Software+Developer;Java+%26+Full+Stack+Developer;Computer+Science+Engineering+Graduate;Problem+Solver+%26+Web+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=25C2A0&center=true&vCenter=true&width=500&lines=Software+Developer;Java+%26+Full+Stack+Developer;CS+Engineering+Graduate;Problem+Solver+%26+Web+Developer" alt="Typing SVG" />
   </a>
 </p>
 
@@ -12,10 +10,10 @@
   <a href="https://sundar-portfolio-gules.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/sundar-2k5"><img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:msundar677@gmail.com"><img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=sundarm677&color=8A2BE2&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <a href="https://github.com/sundarm677"><img src="https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 ### 👨‍💻 About Me
 
@@ -29,7 +27,7 @@ Computer Science Engineering graduate (2026) with strong skills in Java, Python,
 - 🌐 **Web Focus**: JavaScript (ES6+), HTML5, CSS3, Full Stack Web Development
 - ⚡ **Soft Skills**: Problem Solving, Communication, Teamwork, Resilience, Adaptability
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 ### 🛠️ Languages & Technical Skills
 
@@ -56,7 +54,7 @@ Computer Science Engineering graduate (2026) with strong skills in Java, Python,
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" alt="Eclipse"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 ### 🚀 Projects
 
@@ -78,7 +76,7 @@ Computer Science Engineering graduate (2026) with strong skills in Java, Python,
 - Utilized `HashMap` and `ArrayList` data structures for fast lookup operations.
 - Implemented custom exception handling (`BookNotFoundException`, `BookUnavailableException`, `MemberNotFoundException`) to handle invalid inputs gracefully.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 ### 💼 Internship Experience
 
@@ -92,7 +90,7 @@ Computer Science Engineering graduate (2026) with strong skills in Java, Python,
 - Built and maintained responsive web interfaces using HTML5, CSS3, and JavaScript.
 - Optimized layout consistency and overall page usability across diverse devices.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 ### 📈 GitHub Statistics
 
@@ -105,7 +103,7 @@ Computer Science Engineering graduate (2026) with strong skills in Java, Python,
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sundarm677&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="175"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 ### 📫 Connect With Me
 
