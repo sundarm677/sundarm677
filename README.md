@@ -18,7 +18,7 @@ Computer Science Engineering graduate (2026) with strong skills in Java, Python,
 
 - 🎓 **Education**: B.E. in Computer Science & Engineering | **CGPA: 7.7** (2022 – 2026)
 - 🏫 **College**: Jaya Engineering College (Affiliated to Anna University), Thiruninravur, Tamil Nadu
-- 📍 **Location**: Thiruninravur, Tamil Nadu, India
+- 📍 **Location**: Chennai, Tamil Nadu, India
 - 🎯 **Career Goal**: Entry-level Software Developer / Java Developer
 - 💻 **CS Focus**: Data Structures & Algorithms, OOP, Database Management Systems (DBMS), Software Engineering
 - 🌐 **Web & JS Focus**: JavaScript (ES6+), Modern Responsive CSS3/HTML5, Full Stack Web Development
