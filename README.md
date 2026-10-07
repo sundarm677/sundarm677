@@ -1,42 +1,47 @@
-<h1 align="center">Hi there, I'm Sundar M 👋</h1>
-
 <p align="center">
-  <b>Computer Science Engineering Graduate | Aspiring Software Developer & Java Developer</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,28,45,65&height=220&section=header&text=Sundar%20M&fontSize=52&fontColor=ffffff&animation=twinkling&desc=Software%20Developer%20%7C%20Java%20%26%20Web%20Developer&descSize=20&descAlign=50&descAlignY=70" width="100%"/>
 </p>
 
 <p align="center">
-  <a href="https://sundar-portfolio-gules.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/sundar-2k5"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:msundar677@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=25C2A0&center=true&vCenter=true&width=620&lines=Software+Developer;Java+%26+Full+Stack+Developer;Computer+Science+Engineering+Graduate;Problem+Solver+%26+Web+Developer" alt="Typing SVG" />
+  </a>
 </p>
 
----
+<p align="center">
+  <a href="https://sundar-portfolio-gules.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/sundar-2k5"><img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:msundar677@gmail.com"><img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=sundarm677&color=8A2BE2&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 👨‍💻 About Me
 
 Computer Science Engineering graduate (2026) with strong skills in Java, Python, SQL, and web development. Experienced in building responsive applications using HTML5, CSS3, JavaScript, and MySQL through internships and academic projects. Strong problem-solving and debugging abilities with hands-on experience in Git and GitHub. Seeking an entry-level Software Developer or Java Developer position to contribute to real-world projects and build a successful career in software development.
 
 - 🎓 **Education**: B.E. in Computer Science & Engineering | **CGPA: 7.7** (2022 – 2026)
-- 🏫 **College**: Jaya Engineering College (Affiliated to Anna University), Thiruninravur, Tamil Nadu
+- 🏫 **College**: Jaya Engineering College (Affiliated to Anna University)
 - 📍 **Location**: Chennai, Tamil Nadu, India
 - 🎯 **Career Goal**: Entry-level Software Developer / Java Developer
-- 💻 **CS Focus**: Data Structures & Algorithms, OOP, Database Management Systems (DBMS), Software Engineering
-- 🌐 **Web & JS Focus**: JavaScript (ES6+), Modern Responsive CSS3/HTML5, Full Stack Web Development
+- 💻 **CS Focus**: Data Structures & Algorithms, OOP, DBMS, Software Engineering
+- 🌐 **Web Focus**: JavaScript (ES6+), HTML5, CSS3, Full Stack Web Development
 - ⚡ **Soft Skills**: Problem Solving, Communication, Teamwork, Resilience, Adaptability
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 🛠️ Languages & Technical Skills
 
 | Category | Skills & Technologies |
 | :--- | :--- |
-| **Languages** | `Java` • `Python` • `SQL` • `JavaScript (ES6+)` • `HTML5` • `CSS3` |
-| **CS Fundamentals** | `Data Structures & Algorithms (DSA)` • `Object-Oriented Programming (OOP)` • `DBMS` • `Operating Systems` • `Computer Networks` |
-| **Frontend & JS** | `JavaScript (DOM Manipulation, ES6+, Fetch API)` • `CSS3 (Flexbox, Grid, Animations)` • `HTML5` • `Responsive Web Design` |
-| **Databases** | `MySQL` • `SQL Query Optimization` |
-| **Tools & IDEs** | `VS Code` • `Eclipse` • `MySQL Workbench` • `Git` • `GitHub` |
+| 🔤 **Languages** | `Java` • `Python` • `SQL` • `JavaScript (ES6+)` • `HTML5` • `CSS3` |
+| 🧠 **CS Fundamentals** | `Data Structures & Algorithms (DSA)` • `Object-Oriented Programming (OOP)` • `DBMS` • `Operating Systems` |
+| 🌐 **Frontend & Web** | `JavaScript (DOM, ES6+, Fetch API)` • `CSS3 (Flexbox, Grid)` • `HTML5` • `Responsive Design` |
+| 🗄️ **Databases** | `MySQL` • `SQL Query Optimization` |
+| 🛠️ **Tools & IDEs** | `VS Code` • `Eclipse` • `MySQL Workbench` • `Git` • `GitHub` |
 
-#### Tech Badges
+#### 🌈 Tech Stack Badges
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -51,7 +56,7 @@ Computer Science Engineering graduate (2026) with strong skills in Java, Python,
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" alt="Eclipse"/>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 🚀 Projects
 
@@ -70,10 +75,10 @@ Computer Science Engineering graduate (2026) with strong skills in Java, Python,
 #### 📚 Library Management System
 *`Java` • `OOP` • `Collections (DSA)`* • *(Jun 2026 – Jul 2026)*
 - Created a console-based Java application applying core **Computer Science (CS)** concepts and OOP principles to manage book inventories and member checkout systems.
-- Utilized `HashMap` and `ArrayList` data structures for $O(1)$ and fast lookup operations.
+- Utilized `HashMap` and `ArrayList` data structures for fast lookup operations.
 - Implemented custom exception handling (`BookNotFoundException`, `BookUnavailableException`, `MemberNotFoundException`) to handle invalid inputs gracefully.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 💼 Internship Experience
 
@@ -87,28 +92,30 @@ Computer Science Engineering graduate (2026) with strong skills in Java, Python,
 - Built and maintained responsive web interfaces using HTML5, CSS3, and JavaScript.
 - Optimized layout consistency and overall page usability across diverse devices.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sundarm677&show_icons=true&theme=radial&hide_border=true" alt="Sundar's GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sundarm677&layout=compact&theme=radial&hide_border=true" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sundarm677&show_icons=true&theme=tokyonight&hide_border=true" alt="Sundar's GitHub Stats" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sundarm677&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="175"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sundarm677&theme=radial&hide_border=true" alt="GitHub Streak" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sundarm677&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="175"/>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+### 📫 Connect With Me
+
+<p align="center">
+  <a href="https://sundar-portfolio-gules.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/sundar-2k5"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:msundar677@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/sundarm677"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 ---
 
-### 📫 Connect With Me
-
-- 🌐 **Portfolio**: [sundar-portfolio-gules.vercel.app](https://sundar-portfolio-gules.vercel.app/)
-- 💼 **LinkedIn**: [linkedin.com/in/sundar-2k5](https://www.linkedin.com/in/sundar-2k5)
-- 📧 **Email**: [msundar677@gmail.com](mailto:msundar677@gmail.com)
-- 🐙 **GitHub**: [@sundarm677](https://github.com/sundarm677)
-
----
-
-<p align="center"><i>Designed with ❤️ by Sundar M</i></p>
+<p align="center"><i>✨ Designed & Built with ❤️ by Sundar M ✨</i></p>
