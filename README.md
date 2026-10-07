@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-Computer Science Engineering student (2026 Batch) with a solid foundation in **Computer Science (CS) fundamentals**, **Object-Oriented Programming (OOP)**, **Data Structures & Algorithms (DSA)**, **Java**, **Python**, **SQL**, and **JavaScript (JS)** web development. Experienced in building responsive web applications using **HTML5**, **CSS3**, **JavaScript (ES6+)**, and **MySQL**. Seeking an entry-level **Software Developer** or **Java Developer** role to apply my technical skills and grow as a software professional.
+Computer Science Engineering graduate (2026) with strong skills in Java, Python, SQL, and web development. Experienced in building responsive applications using HTML5, CSS3, JavaScript, and MySQL through internships and academic projects. Strong problem-solving and debugging abilities with hands-on experience in Git and GitHub. Seeking an entry-level Software Developer or Java Developer position to contribute to real-world projects and build a successful career in software development.
 
 - 🎓 **Education**: B.E. in Computer Science & Engineering | **CGPA: 7.7** (2022 – 2026)
 - 🏫 **College**: Jaya Engineering College (Affiliated to Anna University), Thiruninravur, Tamil Nadu
