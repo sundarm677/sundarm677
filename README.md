@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Sundar M 👋</h1>
 
 <p align="center">
-  <b>Computer Science Engineering Student (2026) | Aspiring Software Developer & Java Developer</b>
+  <b>Computer Science Engineering Graduate | Aspiring Software Developer & Java Developer</b>
 </p>
 
 <p align="center">
